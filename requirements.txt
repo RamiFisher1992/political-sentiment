@@ -1,0 +1,12 @@
+bokeh==2.4.3
+easydict==1.11
+matplotlib==3.7.2
+nltk==3.8.1
+pandas==2.0.3
+python_bidi==0.4.2
+PyYAML==6.0.1
+scipy==1.11.3
+seaborn==0.13.0
+streamlit==1.25.0
+transformers==4.31.0
+wordcloud==1.9.2

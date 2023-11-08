@@ -1,0 +1,9 @@
+model_params:
+  model_name: 'cardiffnlp/twitter-xlm-roberta-base-sentiment'
+data_paths:
+  raw_data_path: 'datasets/raw.xlsx'
+  processed_data_path: 'datasets/processed.csv'
+  output_path: 'scores/Sentiment_Scores.csv'
+data_filters:
+  start_date_time: '2022-10-01 14:00:00'
+  
